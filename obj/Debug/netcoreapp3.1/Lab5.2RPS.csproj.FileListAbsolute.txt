@@ -1,0 +1,13 @@
+C:\Users\knedbal\dev\Week5\Lab5.2RPS\bin\Debug\netcoreapp3.1\Lab5.2RPS.exe
+C:\Users\knedbal\dev\Week5\Lab5.2RPS\bin\Debug\netcoreapp3.1\Lab5.2RPS.deps.json
+C:\Users\knedbal\dev\Week5\Lab5.2RPS\bin\Debug\netcoreapp3.1\Lab5.2RPS.runtimeconfig.json
+C:\Users\knedbal\dev\Week5\Lab5.2RPS\bin\Debug\netcoreapp3.1\Lab5.2RPS.runtimeconfig.dev.json
+C:\Users\knedbal\dev\Week5\Lab5.2RPS\bin\Debug\netcoreapp3.1\Lab5.2RPS.dll
+C:\Users\knedbal\dev\Week5\Lab5.2RPS\bin\Debug\netcoreapp3.1\Lab5.2RPS.pdb
+C:\Users\knedbal\dev\Week5\Lab5.2RPS\obj\Debug\netcoreapp3.1\Lab5.2RPS.AssemblyInfoInputs.cache
+C:\Users\knedbal\dev\Week5\Lab5.2RPS\obj\Debug\netcoreapp3.1\Lab5.2RPS.AssemblyInfo.cs
+C:\Users\knedbal\dev\Week5\Lab5.2RPS\obj\Debug\netcoreapp3.1\Lab5.2RPS.csproj.CoreCompileInputs.cache
+C:\Users\knedbal\dev\Week5\Lab5.2RPS\obj\Debug\netcoreapp3.1\Lab5.2RPS.dll
+C:\Users\knedbal\dev\Week5\Lab5.2RPS\obj\Debug\netcoreapp3.1\Lab5.2RPS.pdb
+C:\Users\knedbal\dev\Week5\Lab5.2RPS\obj\Debug\netcoreapp3.1\Lab5.2RPS.genruntimeconfig.cache
+C:\Users\knedbal\dev\Week5\Lab5.2RPS\obj\Debug\netcoreapp3.1\Lab5.2RPS.csprojAssemblyReference.cache
